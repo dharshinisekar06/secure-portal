@@ -1,0 +1,8 @@
+{
+  "name": "secure-portal",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd backend && node server.js"
+  },
+  "engines": { "node": "22.x" }
+}
